@@ -1,3 +1,5 @@
+# I took 5 diff imgs of three species namely golden eagle, raven and sparrow
+# then for each img this code generates 10 img. Thus each species get 50 img and all three gets 150 img
 import cv2 as cv
 import numpy as np
 a=142
