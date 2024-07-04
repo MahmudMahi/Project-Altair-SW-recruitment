@@ -1,0 +1,5 @@
+train: E:\Bird species\train
+val: E:\Bird species\validation
+
+nc: 3
+names: ['Golden Eagle', 'Raven', 'Sparrow']
