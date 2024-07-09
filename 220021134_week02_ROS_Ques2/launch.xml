@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="turtlesim" type="turtlesim_node" name="sim" output="screen"/>
+    <node pkg="turtle_control" type="turtle_control.py" name="turtle_movement" output="screen"/>
+</launch>
+<!--turtlesim_node is an in_built pkg, so we don't have create another .py file for that-->
